@@ -1,0 +1,26 @@
+1. Packages & Pricing Section
+Your plan mentioned "Basic, Standard, and Premium" packages. We should display these clearly.
+
+Why: Customers want to know what they get for their money immediately.
+Feature: A 3-column pricing table comparing features (e.g., "Basic Decor" vs. "Live Violinist + Premium Decor").
+2. Real-Life Gallery / Portfolio
+Since this is a visual service, a "Recent Moments" gallery is essential.
+
+Why: "Seeing is believing." High-quality images of past setups build trust.
+Feature: A masonry-style photo grid or a carousel showing happy couples and beautiful table setups.
+3. Partnered Venues Showcase
+You mentioned partnering with cafes and restaurants.
+
+Why: The venue is half the experience. Highlighting top-tier locations adds prestige.
+Feature: A section with "Our Exclusive Venues" featuring cards with venue names, locations, and a "View Setup" button.
+4. Testimonials / Social Proof
+Why: New customers trust the words of others.
+Feature: A slider with quotes from "Happy Couples" (e.g., "The best anniversary surprise ever!" - Sarah & Mike).
+5. Enhanced Booking Experience
+The current form is simple. We can make it feel more professional.
+
+Why: Reduces back-and-forth emails.
+Feature: Add a Date Picker, a Budget Range slider, and a "Surprise Level" selector to the form.
+6. "Why Choose Us?" Section
+Why: Differentiate yourself from generic party planners.
+Feature: Icons with text highlighting "Stress-Free," "Best Prices," and "Custom Themes."
